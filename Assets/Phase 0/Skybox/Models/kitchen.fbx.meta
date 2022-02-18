@@ -1,0 +1,791 @@
+fileFormatVersion: 2
+guid: 034462aacc77f4341a5289c6b32b4127
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: busss1:group8_polySurface4
+    100002: Cupboard
+    100004: Cupboard_Drawer
+    100006: Cupboard_Drawer1
+    100008: Cupboard_Drawer2
+    100010: Desk
+    100012: Desk_Drawer
+    100014: Door
+    100016: Door1
+    100018: Door2
+    100020: Door3
+    100022: Door_Frame
+    100024: Door_frame
+    100026: Door_frame1
+    100028: Door_frames
+    100030: Drawers
+    100032: Drawers1
+    100034: Drawers2
+    100036: Drawers3
+    100038: Drawers4
+    100040: Flower_Bin
+    100042: Flower_Bin1
+    100044: Flower_Bin2
+    100046: Flower_Bin3
+    100048: Fridge
+    100050: Fridge_Stand
+    100052: group14
+    100054: group16_polySurface2
+    100056: group42
+    100058: group52
+    100060: group7
+    100062: group8
+    100064: imagePlane1
+    100066: //RootNode
+    100068: kitchen_hood
+    100070: Ladder
+    100072: locator2
+    100074: Out_Gate
+    100076: Outer_Gate_Frame
+    100078: Outer_Wall
+    100080: pCube1
+    100082: pCube119
+    100084: pCube145
+    100086: pCube16
+    100088: pCube18
+    100090: pCube19
+    100092: pCube20
+    100094: pCube21
+    100096: pCube22
+    100098: pCube23
+    100100: pCube24
+    100102: pCube25
+    100104: pCube86
+    100106: pCube95
+    100108: pCylinder5
+    100110: polySurface10
+    100112: polySurface21
+    100114: Recycle_Bin
+    100116: Recycle_Bin1
+    100118: Recycle_Bin2
+    100120: Rock
+    100122: Roof
+    100124: Sink
+    100126: spotLight1
+    100128: Stove
+    100130: VRayLightRect1
+    100132: VRayLightRect10
+    100134: VRayLightRect12
+    100136: VRayLightRect13
+    100138: VRayLightRect14
+    100140: VRayLightRect2
+    100142: VRayLightRect4
+    100144: VRayLightRect5
+    100146: VRayLightRect6
+    100148: VRayLightRect7
+    100150: VRayLightRect8
+    100152: VRayLightRect9
+    100154: Wall
+    100156: Wall_Frame
+    100158: Wall_Frames
+    100160: Wall_Frames1
+    100162: Wall_Stripes
+    100164: Wall_Stripes 1
+    100166: Wall_Stripes1
+    100168: Windows
+    100170: Windows1
+    100172: Windows2
+    100174: Windows_frame
+    100176: Windows_Frames
+    100178: Wood_pillars
+    400000: busss1:group8_polySurface4
+    400002: Cupboard
+    400004: Cupboard_Drawer
+    400006: Cupboard_Drawer1
+    400008: Cupboard_Drawer2
+    400010: Desk
+    400012: Desk_Drawer
+    400014: Door
+    400016: Door1
+    400018: Door2
+    400020: Door3
+    400022: Door_Frame
+    400024: Door_frame
+    400026: Door_frame1
+    400028: Door_frames
+    400030: Drawers
+    400032: Drawers1
+    400034: Drawers2
+    400036: Drawers3
+    400038: Drawers4
+    400040: Flower_Bin
+    400042: Flower_Bin1
+    400044: Flower_Bin2
+    400046: Flower_Bin3
+    400048: Fridge
+    400050: Fridge_Stand
+    400052: group14
+    400054: group16_polySurface2
+    400056: group42
+    400058: group52
+    400060: group7
+    400062: group8
+    400064: imagePlane1
+    400066: //RootNode
+    400068: kitchen_hood
+    400070: Ladder
+    400072: locator2
+    400074: Out_Gate
+    400076: Outer_Gate_Frame
+    400078: Outer_Wall
+    400080: pCube1
+    400082: pCube119
+    400084: pCube145
+    400086: pCube16
+    400088: pCube18
+    400090: pCube19
+    400092: pCube20
+    400094: pCube21
+    400096: pCube22
+    400098: pCube23
+    400100: pCube24
+    400102: pCube25
+    400104: pCube86
+    400106: pCube95
+    400108: pCylinder5
+    400110: polySurface10
+    400112: polySurface21
+    400114: Recycle_Bin
+    400116: Recycle_Bin1
+    400118: Recycle_Bin2
+    400120: Rock
+    400122: Roof
+    400124: Sink
+    400126: spotLight1
+    400128: Stove
+    400130: VRayLightRect1
+    400132: VRayLightRect10
+    400134: VRayLightRect12
+    400136: VRayLightRect13
+    400138: VRayLightRect14
+    400140: VRayLightRect2
+    400142: VRayLightRect4
+    400144: VRayLightRect5
+    400146: VRayLightRect6
+    400148: VRayLightRect7
+    400150: VRayLightRect8
+    400152: VRayLightRect9
+    400154: Wall
+    400156: Wall_Frame
+    400158: Wall_Frames
+    400160: Wall_Frames1
+    400162: Wall_Stripes
+    400164: Wall_Stripes 1
+    400166: Wall_Stripes1
+    400168: Windows
+    400170: Windows1
+    400172: Windows2
+    400174: Windows_frame
+    400176: Windows_Frames
+    400178: Wood_pillars
+    2300000: busss1:group8_polySurface4
+    2300002: Cupboard
+    2300004: Cupboard_Drawer
+    2300006: Cupboard_Drawer1
+    2300008: Cupboard_Drawer2
+    2300010: Desk
+    2300012: Desk_Drawer
+    2300014: Door
+    2300016: Door1
+    2300018: Door2
+    2300020: Door3
+    2300022: Door_Frame
+    2300024: Door_frame
+    2300026: Door_frame1
+    2300028: Door_frames
+    2300030: Drawers
+    2300032: Drawers1
+    2300034: Drawers2
+    2300036: Drawers3
+    2300038: Drawers4
+    2300040: Flower_Bin
+    2300042: Flower_Bin1
+    2300044: Flower_Bin2
+    2300046: Flower_Bin3
+    2300048: Fridge
+    2300050: Fridge_Stand
+    2300052: group16_polySurface2
+    2300054: kitchen_hood
+    2300056: Ladder
+    2300058: Out_Gate
+    2300060: Outer_Gate_Frame
+    2300062: Outer_Wall
+    2300064: pCube119
+    2300066: pCube16
+    2300068: pCube20
+    2300070: pCube21
+    2300072: pCube22
+    2300074: pCube23
+    2300076: pCube24
+    2300078: pCube25
+    2300080: pCube86
+    2300082: pCube95
+    2300084: pCylinder5
+    2300086: polySurface10
+    2300088: polySurface21
+    2300090: Recycle_Bin
+    2300092: Recycle_Bin1
+    2300094: Recycle_Bin2
+    2300096: Rock
+    2300098: Roof
+    2300100: Sink
+    2300102: Stove
+    2300104: Wall
+    2300106: Wall_Frame
+    2300108: Wall_Frames
+    2300110: Wall_Frames1
+    2300112: Wall_Stripes
+    2300114: Wall_Stripes 1
+    2300116: Wall_Stripes1
+    2300118: Windows
+    2300120: Windows1
+    2300122: Windows2
+    2300124: Windows_frame
+    2300126: Windows_Frames
+    2300128: Wood_pillars
+    3300000: busss1:group8_polySurface4
+    3300002: Cupboard
+    3300004: Cupboard_Drawer
+    3300006: Cupboard_Drawer1
+    3300008: Cupboard_Drawer2
+    3300010: Desk
+    3300012: Desk_Drawer
+    3300014: Door
+    3300016: Door1
+    3300018: Door2
+    3300020: Door3
+    3300022: Door_Frame
+    3300024: Door_frame
+    3300026: Door_frame1
+    3300028: Door_frames
+    3300030: Drawers
+    3300032: Drawers1
+    3300034: Drawers2
+    3300036: Drawers3
+    3300038: Drawers4
+    3300040: Flower_Bin
+    3300042: Flower_Bin1
+    3300044: Flower_Bin2
+    3300046: Flower_Bin3
+    3300048: Fridge
+    3300050: Fridge_Stand
+    3300052: group16_polySurface2
+    3300054: kitchen_hood
+    3300056: Ladder
+    3300058: Out_Gate
+    3300060: Outer_Gate_Frame
+    3300062: Outer_Wall
+    3300064: pCube119
+    3300066: pCube16
+    3300068: pCube20
+    3300070: pCube21
+    3300072: pCube22
+    3300074: pCube23
+    3300076: pCube24
+    3300078: pCube25
+    3300080: pCube86
+    3300082: pCube95
+    3300084: pCylinder5
+    3300086: polySurface10
+    3300088: polySurface21
+    3300090: Recycle_Bin
+    3300092: Recycle_Bin1
+    3300094: Recycle_Bin2
+    3300096: Rock
+    3300098: Roof
+    3300100: Sink
+    3300102: Stove
+    3300104: Wall
+    3300106: Wall_Frame
+    3300108: Wall_Frames
+    3300110: Wall_Frames1
+    3300112: Wall_Stripes
+    3300114: Wall_Stripes 1
+    3300116: Wall_Stripes1
+    3300118: Windows
+    3300120: Windows1
+    3300122: Windows2
+    3300124: Windows_frame
+    3300126: Windows_Frames
+    3300128: Wood_pillars
+    4300000: polySurface10
+    4300002: pCube16
+    4300004: pCube20
+    4300006: pCube21
+    4300008: pCube22
+    4300010: pCube23
+    4300012: pCube24
+    4300014: pCube25
+    4300016: Windows1
+    4300018: Windows
+    4300020: Windows2
+    4300022: Windows_Frames
+    4300024: Door_frames
+    4300026: Door1
+    4300028: Door_frame1
+    4300030: Door3
+    4300032: Outer_Gate_Frame
+    4300034: Door_Frame
+    4300036: Door2
+    4300038: Door_frame
+    4300040: Door
+    4300042: Sink
+    4300044: pCube119
+    4300046: Outer_Wall
+    4300048: Roof
+    4300050: Wall_Frame
+    4300052: Wall_Frames1
+    4300054: Wall_Frames
+    4300056: Wall_Stripes
+    4300058: polySurface21
+    4300060: Wall_Stripes1
+    4300062: Wall_Stripes
+    4300064: Out_Gate
+    4300066: Flower_Bin3
+    4300068: Flower_Bin2
+    4300070: Flower_Bin1
+    4300072: Flower_Bin
+    4300074: Ladder
+    4300076: Stove
+    4300078: Cupboard
+    4300080: Wood_pillars
+    4300082: pCube86
+    4300084: Drawers4
+    4300086: Drawers3
+    4300088: Drawers
+    4300090: Cupboard_Drawer
+    4300092: Cupboard_Drawer1
+    4300094: Cupboard_Drawer2
+    4300096: kitchen_hood
+    4300098: Wall
+    4300100: group16_polySurface2
+    4300102: busss1:group8_polySurface4
+    4300104: pCylinder5
+    4300106: pCube95
+    4300108: Desk
+    4300110: Fridge
+    4300112: Fridge_Stand
+    4300114: Drawers1
+    4300116: Drawers2
+    4300118: Desk_Drawer
+    4300120: Recycle_Bin
+    4300122: Recycle_Bin1
+    4300124: Recycle_Bin2
+    4300126: Rock
+    4300128: Windows_frame
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CupboardShape_bakedmtl1
+    second: {fileID: 2100000, guid: 25b46e8b88c5f8b478b3f6ae6cf1e77d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cupboard_Drawer1Shape_bakedmtl
+    second: {fileID: 2100000, guid: f128c56ce390942479986c9fd94a68f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cupboard_Drawer2Shape_bakedmtl
+    second: {fileID: 2100000, guid: 66cbf4ac4d5202f4f895ed3659cc16b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cupboard_DrawerShape_bakedmtl
+    second: {fileID: 2100000, guid: 9cf0941337a6d8f4d8e120fcd4fab00b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DeskShape_bakedmtl1
+    second: {fileID: 2100000, guid: 70d849375fe271e4fbfaca4390ab5f9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Desk_DrawerShape_bakedmtl1
+    second: {fileID: 2100000, guid: 070695c232e36984d95135473ebc2a01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door1Shape_bakedmtl2
+    second: {fileID: 2100000, guid: 3f8f859be708c1845860b7c94c5ea5c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door2Shape_bakedmtl1
+    second: {fileID: 2100000, guid: bd9422d9a7989fb43acc6243b1f49cbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door3Shape_bakedmtl1
+    second: {fileID: 2100000, guid: 533860b37ec1b254593173f2f78e61e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorShape_bakedmtl2
+    second: {fileID: 2100000, guid: 327d62b308c629841b6132154110058f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_FrameShape_bakedmtl1
+    second: {fileID: 2100000, guid: 50194c9535fcbdc4f90bd30092c612a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_frame1Shape_bakedmtl1
+    second: {fileID: 2100000, guid: e2c02321cb2048e42b1e5ee8e3cd6c6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_frameShape_bakedmtl6
+    second: {fileID: 2100000, guid: 50f163d7b86e9f04e822e4047f58c0c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_framesShape_bakedmtl2
+    second: {fileID: 2100000, guid: aa876506d671f6345baebf632ed156b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Drawers1Shape_bakedmtl1
+    second: {fileID: 2100000, guid: e321330a4c4be1245b313a5083c93d9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Drawers2Shape_bakedmtl1
+    second: {fileID: 2100000, guid: 562fedf192f298346bf4945bfcdeff46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Drawers3Shape_bakedmtl
+    second: {fileID: 2100000, guid: fcad8b203db421944ba80814d3d8b217, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Drawers4Shape_bakedmtl
+    second: {fileID: 2100000, guid: 0092189b319313c41a2848605636fa39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawersShape_bakedmtl1
+    second: {fileID: 2100000, guid: bc742b08ac6d16840833ee75a12b11d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flower_BinShape1_bakedmtl
+    second: {fileID: 2100000, guid: 53d38ae9cdbb10144a0d5ee29e6b6e64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flower_BinShape2_bakedmtl
+    second: {fileID: 2100000, guid: 522e278f3df9c44418fd4230964b5c22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flower_BinShape3_bakedmtl
+    second: {fileID: 2100000, guid: 8a96450142deda24e82e99c1b5c46966, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flower_BinShape_bakedmtl
+    second: {fileID: 2100000, guid: c523fa755d1de9a498126606bff60c2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FridgeShape_bakedmtl2
+    second: {fileID: 2100000, guid: 872bccf4ef1742849991d1d90b52567d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fridge_StandShape_bakedmtl
+    second: {fileID: 2100000, guid: c775c230b9faa6240894bdaa3721d1d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LadderShape_bakedmtl1
+    second: {fileID: 2100000, guid: a8bfdb39809694648b7e024979fc3129, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Out_GateShape_bakedmtl
+    second: {fileID: 2100000, guid: b98dcbf372324dd4c9b9e405c9e993f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Outer_Gate_FrameShape_bakedmtl
+    second: {fileID: 2100000, guid: b5c6339ea0319d94481ba42590ef3079, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Outer_WallShape_bakedmtl
+    second: {fileID: 2100000, guid: 234d3615bbc54aa4cb7bd6bd58253694, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Recycle_Bin1Shape_bakedmtl
+    second: {fileID: 2100000, guid: d41c31b5f0dff36469496251193955e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Recycle_Bin2Shape_bakedmtl
+    second: {fileID: 2100000, guid: 29e6a2c97b630eb48a4caa8e396c1d74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Recycle_BinShape_bakedmtl
+    second: {fileID: 2100000, guid: e1930596f28cef74caf7bdc3c3394a6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RockShape_bakedmtl
+    second: {fileID: 2100000, guid: 778c48026089459428dcc1b80ee01e5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofShape_bakedmtl
+    second: {fileID: 2100000, guid: d91e203a7b6242c42b5b2ff460e30715, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SinkShape_bakedmtl
+    second: {fileID: 2100000, guid: 0d18bec52c83c584f99ba889ac767b0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StoveShape_bakedmtl1
+    second: {fileID: 2100000, guid: 22bbafddcc73832418fbdbfe6d17afea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallShape_bakedmtl1
+    second: {fileID: 2100000, guid: 13b4b149b5fb0534b8ee20da6b55f555, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_FrameShape_bakedmtl
+    second: {fileID: 2100000, guid: 512f568b27a923041b3e5625513f44dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_FramesShape1_bakedmtl
+    second: {fileID: 2100000, guid: 7a51b35ed73c7974d9701f9c8fa2035d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_FramesShape_bakedmtl
+    second: {fileID: 2100000, guid: b9e79f4673d4d3447bce25b6b18745ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_StripesShape1_bakedmtl
+    second: {fileID: 2100000, guid: ac86e88f8ebebbc4884cf6542f6fcd52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Stripes_Wall_StripesShape_bakedmtl
+    second: {fileID: 2100000, guid: 1bf45fb4aed20d341b2a77000dd3bdc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowsShape1_bakedmtl1
+    second: {fileID: 2100000, guid: 9bba24cc0848a2a409b1f60b27d22011, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowsShape2_bakedmtl1
+    second: {fileID: 2100000, guid: e153da6f9fd23e84f9a5a0a75b452c47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowsShape_bakedmtl1
+    second: {fileID: 2100000, guid: 8ebce2fe905158d4ab404e4110efc902, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Windows_FramesShape_bakedmtl1
+    second: {fileID: 2100000, guid: af1d54fe916a82a40b0a8f1f1a1b4850, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Windows_frameShape_bakedmtl
+    second: {fileID: 2100000, guid: ad7c9a7b18569c649bd98f94a443fc3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_pillarsShape_bakedmtl1
+    second: {fileID: 2100000, guid: 1fed4668e12f14d43b02ce468776bf3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: busss1_group8_polySurface4Shape_bakedmtl1
+    second: {fileID: 2100000, guid: 92b65f8fa2c68ef4cac66f0cb968803d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group16_polySurface2Shape_bakedmtl1
+    second: {fileID: 2100000, guid: 75f0f4db0ceffbf459648774aad114f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kitchen_hoodShape_bakedmtl1
+    second: {fileID: 2100000, guid: aa4d29e78c8ce12489021b7d0a0424b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube119Shape_bakedmtl
+    second: {fileID: 2100000, guid: 8e874a6b0a143c149a06a9ed8f62dc1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube145_Wall_Stripes_Wall_StripesShape_bakedmtl
+    second: {fileID: 2100000, guid: b3b60c707439d5b4382da40185869c29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube86Shape_bakedmtl1
+    second: {fileID: 2100000, guid: 5112f082ce6580447ad1bbcf1e38d0e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCube95Shape_bakedmtl1
+    second: {fileID: 2100000, guid: 62367f601ffe20d47837226348992d54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCubeShape16_bakedmtl
+    second: {fileID: 2100000, guid: b1faf49c12d41a443a7dda9ad19c7297, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCubeShape20_bakedmtl
+    second: {fileID: 2100000, guid: b07f868d65e399f4cbe6f1adbf7edc86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCubeShape21_bakedmtl
+    second: {fileID: 2100000, guid: 3ffa46195ab8f414c87d50d1658472d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCubeShape22_bakedmtl
+    second: {fileID: 2100000, guid: 47bad9b0001d85349a0416245208398b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCubeShape23_bakedmtl
+    second: {fileID: 2100000, guid: f7923c59156a4034b98026bd039e5643, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCubeShape24_bakedmtl
+    second: {fileID: 2100000, guid: e4cdb322768d6a046b2c3335aa2bdb26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCubeShape25_bakedmtl
+    second: {fileID: 2100000, guid: 09f66156d617b4245be1953144820b6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCylinder5Shape_bakedmtl1
+    second: {fileID: 2100000, guid: 65f7f5088966d804a8ea0386975e6c3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurfaceShape102_bakedmtl
+    second: {fileID: 2100000, guid: 4643b3f35f3619b4bb8f434425c2229d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polySurfaceShape215_bakedmtl
+    second: {fileID: 2100000, guid: 0830ebb93225e33459399788b99dcdcf, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: cf8e542df6bbe824aa4301b825fdc0ff
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CupboardLeftDoor
+    100004: CupboardRightDoor
+    100006: pCube2
+    100008: pCube3
+    100010: pCube49
+    100012: pCube50
+    100014: pCube51
+    100016: pCube53
+    100018: pCube54
+    100020: pCube55
+    100022: pCube56
+    100024: pCube57
+    100026: pCube58
+    100028: pCube59
+    100030: pCube60
+    100032: pCube61
+    100034: pCube62
+    100036: pCube63
+    100038: pCube64
+    100040: pCube65
+    100042: pCylinder15
+    100044: pCylinder16
+    100046: pCylinder17
+    100048: pCylinder18
+    100050: pCylinder19
+    100052: pCylinder20
+    100054: pCylinder21
+    100056: pCylinder22
+    100058: pCylinder23
+    100060: pCylinder24
+    100062: pCylinder25
+    100064: pCylinder26
+    100066: pCylinder27
+    100068: pCylinder28
+    400000: //RootNode
+    400002: CupboardLeftDoor
+    400004: CupboardRightDoor
+    400006: pCube2
+    400008: pCube3
+    400010: pCube49
+    400012: pCube50
+    400014: pCube51
+    400016: pCube53
+    400018: pCube54
+    400020: pCube55
+    400022: pCube56
+    400024: pCube57
+    400026: pCube58
+    400028: pCube59
+    400030: pCube60
+    400032: pCube61
+    400034: pCube62
+    400036: pCube63
+    400038: pCube64
+    400040: pCube65
+    400042: pCylinder15
+    400044: pCylinder16
+    400046: pCylinder17
+    400048: pCylinder18
+    400050: pCylinder19
+    400052: pCylinder20
+    400054: pCylinder21
+    400056: pCylinder22
+    400058: pCylinder23
+    400060: pCylinder24
+    400062: pCylinder25
+    400064: pCylinder26
+    400066: pCylinder27
+    400068: pCylinder28
+    2300000: pCube2
+    2300002: pCube3
+    2300004: pCube49
+    2300006: pCube50
+    2300008: pCube51
+    2300010: pCube53
+    2300012: pCube54
+    2300014: pCube55
+    2300016: pCube56
+    2300018: pCube57
+    2300020: pCube58
+    2300022: pCube59
+    2300024: pCube60
+    2300026: pCube61
+    2300028: pCube62
+    2300030: pCube63
+    2300032: pCube64
+    2300034: pCube65
+    2300036: pCylinder15
+    2300038: pCylinder16
+    2300040: pCylinder17
+    2300042: pCylinder18
+    2300044: pCylinder19
+    2300046: pCylinder20
+    2300048: pCylinder21
+    2300050: pCylinder22
+    2300052: pCylinder23
+    2300054: pCylinder24
+    2300056: pCylinder25
+    2300058: pCylinder26
+    2300060: pCylinder27
+    2300062: pCylinder28
+    3300000: pCube2
+    3300002: pCube3
+    3300004: pCube49
+    3300006: pCube50
+    3300008: pCube51
+    3300010: pCube53
+    3300012: pCube54
+    3300014: pCube55
+    3300016: pCube56
+    3300018: pCube57
+    3300020: pCube58
+    3300022: pCube59
+    3300024: pCube60
+    3300026: pCube61
+    3300028: pCube62
+    3300030: pCube63
+    3300032: pCube64
+    3300034: pCube65
+    3300036: pCylinder15
+    3300038: pCylinder16
+    3300040: pCylinder17
+    3300042: pCylinder18
+    3300044: pCylinder19
+    3300046: pCylinder20
+    3300048: pCylinder21
+    3300050: pCylinder22
+    3300052: pCylinder23
+    3300054: pCylinder24
+    3300056: pCylinder25
+    3300058: pCylinder26
+    3300060: pCylinder27
+    3300062: pCylinder28
+    4300000: pCube2
+    4300002: pCube3
+    4300004: pCylinder23
+    4300006: pCylinder24
+    4300008: pCylinder25
+    4300010: pCube64
+    4300012: pCylinder28
+    4300014: pCylinder27
+    4300016: pCylinder26
+    4300018: pCube50
+    4300020: pCube65
+    4300022: pCube55
+    4300024: pCube54
+    4300026: pCube53
+    4300028: pCube51
+    4300030: pCube49
+    4300032: pCylinder22
+    4300034: pCylinder21
+    4300036: pCube63
+    4300038: pCube62
+    4300040: pCylinder20
+    4300042: pCube61
+    4300044: pCylinder19
+    4300046: pCube60
+    4300048: pCube59
+    4300050: pCylinder18
+    4300052: pCylinder17
+    4300054: pCube58
+    4300056: pCylinder16
+    4300058: pCube57
+    4300060: pCylinder15
+    4300062: pCube56
+    7400000: cup_open
+    7400002: cup_close
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 6796d4a712ef9c54aab497d07422e735, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: cup_open
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 28
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CupboardLeftDoor
+        weight: 1
+      - path: CupboardLeftDoor/pCube50
+        weight: 1
+      - path: CupboardLeftDoor/pCylinder26
+        weight: 1
+      - path: CupboardLeftDoor/pCylinder27
+        weight: 1
+      - path: CupboardLeftDoor/pCylinder28
+        weight: 1
+      - path: CupboardRightDoor
+        weight: 1
+      - path: CupboardRightDoor/pCube64
+        weight: 1
+      - path: CupboardRightDoor/pCylinder23
+        weight: 1
+      - path: CupboardRightDoor/pCylinder24
+        weight: 1
+      - path: CupboardRightDoor/pCylinder25
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube3
+        weight: 1
+      - path: pCube49
+        weight: 1
+      - path: pCube51
+        weight: 1
+      - path: pCube53
+        weight: 1
+      - path: pCube54
+        weight: 1
+      - path: pCube55
+        weight: 1
+      - path: pCube56
+        weight: 1
+      - path: pCube57
+        weight: 1
+      - path: pCube58
+        weight: 1
+      - path: pCube59
+        weight: 1
+      - path: pCube60
+        weight: 1
+      - path: pCube61
+        weight: 1
+      - path: pCube62
+        weight: 1
+      - path: pCube63
+        weight: 1
+      - path: pCube65
+        weight: 1
+      - path: pCylinder15
+        weight: 1
+      - path: pCylinder16
+        weight: 1
+      - path: pCylinder17
+        weight: 1
+      - path: pCylinder18
+        weight: 1
+      - path: pCylinder19
+        weight: 1
+      - path: pCylinder20
+        weight: 1
+      - path: pCylinder21
+        weight: 1
+      - path: pCylinder22
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: cup_close
+      takeName: Take 001
+      firstFrame: 28
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CupboardLeftDoor
+        weight: 1
+      - path: CupboardLeftDoor/pCube50
+        weight: 1
+      - path: CupboardLeftDoor/pCylinder26
+        weight: 1
+      - path: CupboardLeftDoor/pCylinder27
+        weight: 1
+      - path: CupboardLeftDoor/pCylinder28
+        weight: 1
+      - path: CupboardRightDoor
+        weight: 1
+      - path: CupboardRightDoor/pCube64
+        weight: 1
+      - path: CupboardRightDoor/pCylinder23
+        weight: 1
+      - path: CupboardRightDoor/pCylinder24
+        weight: 1
+      - path: CupboardRightDoor/pCylinder25
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube3
+        weight: 1
+      - path: pCube49
+        weight: 1
+      - path: pCube51
+        weight: 1
+      - path: pCube53
+        weight: 1
+      - path: pCube54
+        weight: 1
+      - path: pCube55
+        weight: 1
+      - path: pCube56
+        weight: 1
+      - path: pCube57
+        weight: 1
+      - path: pCube58
+        weight: 1
+      - path: pCube59
+        weight: 1
+      - path: pCube60
+        weight: 1
+      - path: pCube61
+        weight: 1
+      - path: pCube62
+        weight: 1
+      - path: pCube63
+        weight: 1
+      - path: pCube65
+        weight: 1
+      - path: pCylinder15
+        weight: 1
+      - path: pCylinder16
+        weight: 1
+      - path: pCylinder17
+        weight: 1
+      - path: pCylinder18
+        weight: 1
+      - path: pCylinder19
+        weight: 1
+      - path: pCylinder20
+        weight: 1
+      - path: pCylinder21
+        weight: 1
+      - path: pCylinder22
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

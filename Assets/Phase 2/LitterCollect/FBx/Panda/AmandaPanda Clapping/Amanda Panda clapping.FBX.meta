@@ -1,0 +1,464 @@
+fileFormatVersion: 2
+guid: 499f9483b74e848c6b3184d17b2ff23b
+timeCreated: 1481796292
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bip001
+    100004: Bip001 Footsteps
+    100006: Bip001 Head
+    100008: Bip001 HeadNub
+    100010: Bip001 L Calf
+    100012: Bip001 L Clavicle
+    100014: Bip001 L Foot
+    100016: Bip001 L Forearm
+    100018: Bip001 L Hand
+    100020: Bip001 L Thigh
+    100022: Bip001 L Toe0
+    100024: Bip001 L Toe0Nub
+    100026: Bip001 L UpperArm
+    100028: Bip001 Neck
+    100030: Bip001 Pelvis
+    100032: Bip001 R Calf
+    100034: Bip001 R Clavicle
+    100036: Bip001 R Foot
+    100038: Bip001 R Forearm
+    100040: Bip001 R Hand
+    100042: Bip001 R Thigh
+    100044: Bip001 R Toe0
+    100046: Bip001 R Toe0Nub
+    100048: Bip001 R UpperArm
+    100050: Bip001 Spine
+    100052: Bip001 Spine1
+    100054: Bip001 Spine2
+    100056: body
+    100058: Head
+    100060: Low_Bip001
+    100062: Low_Bip001 Head
+    100064: Low_Bip001 L Calf
+    100066: Low_Bip001 L Clavicle
+    100068: Low_Bip001 L Foot
+    100070: Low_Bip001 L Forearm
+    100072: Low_Bip001 L Hand
+    100074: Low_Bip001 L Thigh
+    100076: Low_Bip001 L Toe0
+    100078: Low_Bip001 L Toe0Nub
+    100080: Low_Bip001 L UpperArm
+    100082: Low_Bip001 Neck
+    100084: Low_Bip001 Pelvis
+    100086: Low_Bip001 R Calf
+    100088: Low_Bip001 R Clavicle
+    100090: Low_Bip001 R Foot
+    100092: Low_Bip001 R Forearm
+    100094: Low_Bip001 R Hand
+    100096: Low_Bip001 R Thigh
+    100098: Low_Bip001 R Toe0
+    100100: Low_Bip001 R Toe0Nub
+    100102: Low_Bip001 R UpperArm
+    100104: Low_Bip001 Spine
+    100106: Low_Bip001 Spine1
+    100108: Low_Bip001 Spine2
+    100110: Low_New Amanda Panda
+    100112: Low_Sphere005
+    100114: New Amanda Panda
+    100116: Sphere005
+    400000: //RootNode
+    400002: Bip001
+    400004: Bip001 Footsteps
+    400006: Bip001 Head
+    400008: Bip001 HeadNub
+    400010: Bip001 L Calf
+    400012: Bip001 L Clavicle
+    400014: Bip001 L Foot
+    400016: Bip001 L Forearm
+    400018: Bip001 L Hand
+    400020: Bip001 L Thigh
+    400022: Bip001 L Toe0
+    400024: Bip001 L Toe0Nub
+    400026: Bip001 L UpperArm
+    400028: Bip001 Neck
+    400030: Bip001 Pelvis
+    400032: Bip001 R Calf
+    400034: Bip001 R Clavicle
+    400036: Bip001 R Foot
+    400038: Bip001 R Forearm
+    400040: Bip001 R Hand
+    400042: Bip001 R Thigh
+    400044: Bip001 R Toe0
+    400046: Bip001 R Toe0Nub
+    400048: Bip001 R UpperArm
+    400050: Bip001 Spine
+    400052: Bip001 Spine1
+    400054: Bip001 Spine2
+    400056: body
+    400058: Head
+    400060: Low_Bip001
+    400062: Low_Bip001 Head
+    400064: Low_Bip001 L Calf
+    400066: Low_Bip001 L Clavicle
+    400068: Low_Bip001 L Foot
+    400070: Low_Bip001 L Forearm
+    400072: Low_Bip001 L Hand
+    400074: Low_Bip001 L Thigh
+    400076: Low_Bip001 L Toe0
+    400078: Low_Bip001 L Toe0Nub
+    400080: Low_Bip001 L UpperArm
+    400082: Low_Bip001 Neck
+    400084: Low_Bip001 Pelvis
+    400086: Low_Bip001 R Calf
+    400088: Low_Bip001 R Clavicle
+    400090: Low_Bip001 R Foot
+    400092: Low_Bip001 R Forearm
+    400094: Low_Bip001 R Hand
+    400096: Low_Bip001 R Thigh
+    400098: Low_Bip001 R Toe0
+    400100: Low_Bip001 R Toe0Nub
+    400102: Low_Bip001 R UpperArm
+    400104: Low_Bip001 Spine
+    400106: Low_Bip001 Spine1
+    400108: Low_Bip001 Spine2
+    400110: Low_New Amanda Panda
+    400112: Low_Sphere005
+    400114: New Amanda Panda
+    400116: Sphere005
+    2300000: Low_Bip001
+    2300002: Low_Bip001 Head
+    2300004: Low_Bip001 L Calf
+    2300006: Low_Bip001 L Clavicle
+    2300008: Low_Bip001 L Foot
+    2300010: Low_Bip001 L Forearm
+    2300012: Low_Bip001 L Hand
+    2300014: Low_Bip001 L Thigh
+    2300016: Low_Bip001 L Toe0
+    2300018: Low_Bip001 L UpperArm
+    2300020: Low_Bip001 Neck
+    2300022: Low_Bip001 Pelvis
+    2300024: Low_Bip001 R Calf
+    2300026: Low_Bip001 R Clavicle
+    2300028: Low_Bip001 R Foot
+    2300030: Low_Bip001 R Forearm
+    2300032: Low_Bip001 R Hand
+    2300034: Low_Bip001 R Thigh
+    2300036: Low_Bip001 R Toe0
+    2300038: Low_Bip001 R Toe0Nub
+    2300040: Low_Bip001 R UpperArm
+    2300042: Low_Bip001 Spine
+    2300044: Low_Bip001 Spine1
+    2300046: Low_Bip001 Spine2
+    2300048: Low_Sphere005
+    3300000: Low_Bip001
+    3300002: Low_Bip001 Head
+    3300004: Low_Bip001 L Calf
+    3300006: Low_Bip001 L Clavicle
+    3300008: Low_Bip001 L Foot
+    3300010: Low_Bip001 L Forearm
+    3300012: Low_Bip001 L Hand
+    3300014: Low_Bip001 L Thigh
+    3300016: Low_Bip001 L Toe0
+    3300018: Low_Bip001 L UpperArm
+    3300020: Low_Bip001 Neck
+    3300022: Low_Bip001 Pelvis
+    3300024: Low_Bip001 R Calf
+    3300026: Low_Bip001 R Clavicle
+    3300028: Low_Bip001 R Foot
+    3300030: Low_Bip001 R Forearm
+    3300032: Low_Bip001 R Hand
+    3300034: Low_Bip001 R Thigh
+    3300036: Low_Bip001 R Toe0
+    3300038: Low_Bip001 R Toe0Nub
+    3300040: Low_Bip001 R UpperArm
+    3300042: Low_Bip001 Spine
+    3300044: Low_Bip001 Spine1
+    3300046: Low_Bip001 Spine2
+    3300048: Low_Sphere005
+    4300000: body
+    4300002: Sphere005
+    4300004: Low_Sphere005
+    4300006: Low_Bip001 L Hand
+    4300008: Low_Bip001 L Forearm
+    4300010: Low_Bip001 L UpperArm
+    4300012: Low_Bip001 L Clavicle
+    4300014: Low_Bip001 R Hand
+    4300016: Low_Bip001 R Forearm
+    4300018: Low_Bip001 R UpperArm
+    4300020: Low_Bip001 R Clavicle
+    4300022: Low_Bip001 Head
+    4300024: Low_Bip001 Neck
+    4300026: Low_Bip001 Spine2
+    4300028: Low_Bip001 Spine1
+    4300030: Low_Bip001 L Toe0
+    4300032: Low_Bip001 L Foot
+    4300034: Low_Bip001 L Calf
+    4300036: Low_Bip001 L Thigh
+    4300038: Low_Bip001 R Toe0Nub
+    4300040: Low_Bip001 R Toe0
+    4300042: Low_Bip001 R Foot
+    4300044: Low_Bip001 R Calf
+    4300046: Low_Bip001 R Thigh
+    4300048: Low_Bip001 Spine
+    4300050: Low_Bip001 Pelvis
+    4300052: Low_Bip001
+    4300054: Head
+    7400000: Clapping
+    9500000: //RootNode
+    13700000: body
+    13700002: Head
+    13700004: Sphere005
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Clapping
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: PandaClappingComplete
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 0f1eee00648a84602809db21e3e3d10a,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip001
+        weight: 1
+      - path: Bip001/Bip001 Footsteps
+        weight: 1
+      - path: Bip001/Bip001 Pelvis
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L Foot
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L Foot/Bip001 L Toe0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L Foot/Bip001 L Toe0/Bip001 L Toe0Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L Foot/Bip001 L Toe0/Bip001 L Toe0Nub/Low_Bip001 L Toe0Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L Foot/Bip001 L Toe0/Low_Bip001 L Toe0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L Foot/Low_Bip001 L Foot
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Low_Bip001
+          L Calf
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Low_Bip001 L Thigh
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R Foot
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R Foot/Bip001 R Toe0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R Foot/Bip001 R Toe0/Bip001 R Toe0Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R Foot/Bip001 R Toe0/Bip001 R Toe0Nub/Low_Bip001 R Toe0Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R Foot/Bip001 R Toe0/Low_Bip001 R Toe0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R Foot/Low_Bip001 R Foot
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Low_Bip001
+          R Calf
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Low_Bip001 R Thigh
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Head
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Head/Bip001 HeadNub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 Head/Low_Bip001 Head
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Low_Bip001
+          L Hand
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Low_Bip001 L Forearm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Bip001 L UpperArm/Low_Bip001 L UpperArm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 L Clavicle/Low_Bip001 L Clavicle
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Low_Bip001
+          R Hand
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Low_Bip001 R Forearm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Bip001 R UpperArm/Low_Bip001 R UpperArm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Bip001 R Clavicle/Low_Bip001 R Clavicle
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Neck/Low_Bip001 Neck
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Low_Bip001
+          Spine2
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Low_Bip001 Spine1
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Low_Bip001 Spine
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Low_Bip001 Pelvis
+        weight: 1
+      - path: Bip001/Low_Bip001
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: New Amanda Panda
+        weight: 1
+      - path: New Amanda Panda/body
+        weight: 1
+      - path: New Amanda Panda/Low_New Amanda Panda
+        weight: 1
+      - path: New Amanda Panda/Sphere005
+        weight: 1
+      - path: New Amanda Panda/Sphere005/Low_Sphere005
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
